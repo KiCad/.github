@@ -1,4 +1,4 @@
-![KiCad Logo](https://github.com/kicad/.github/blob/main/images/kicad_logo_small.png) 
+[![KiCad Logo](https://github.com/kicad/.github/blob/main/images/kicad_logo_small.png)](#)
 
 ## Development
 
